@@ -54,8 +54,8 @@ yarn install or npm install
 
 ### Submission
 - [Submission 1](https://github.com/ibnucholdun/Belajar-Fundamental-Aplikasi-Back-End/tree/submission-v1)
-- [Submission 2](https://github.com/ibnucholdun/Belajar-Fundamental-Aplikasi-Back-End/tree/submission-v2
-- [Submission 3](https://github.com/ibnucholdun/Belajar-Fundamental-Aplikasi-Back-End/tree/submission-v3
+- [Submission 2](https://github.com/ibnucholdun/Belajar-Fundamental-Aplikasi-Back-End/tree/submission-v2)
+- [Submission 3](https://github.com/ibnucholdun/Belajar-Fundamental-Aplikasi-Back-End/tree/submission-v3)
 
 ## Author
 * #### [Ibnu Choldun](https://www.linkedin.com/in/ibnu-choldun-19904322a/)
